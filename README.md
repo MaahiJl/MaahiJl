@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaahiJl
+- 👋 Hi, I’m @NeginJL
 - 👀 I’m interested in JS programming
 - 🌱 I’m currently learning FrontEnd Dev
 - 💞️ I’m looking to collaborate on ...
